@@ -7,6 +7,7 @@
 </head>
 <body>
     <!-- <?php
+    //leap year program
     $a=$_GET['a'];
     if($a%400==0){
         echo "Kabisa yili ".$a;
@@ -20,6 +21,7 @@
     ?> -->
 
     <!-- <?php
+    //EKUK program
     $a=$_GET['a'];
     $b=$_GET['b'];
     $ek=$a*$b;
@@ -34,6 +36,7 @@
     <h2>EKUK <?= $ekk?></h2> -->
 
     <!-- <?php
+    //multiplication table
     for($i=1;$i<=9;$i+=2){
         for($j=1;$j<=9;$j+=2){
             $c=$i*$j;
@@ -41,5 +44,6 @@
         }
     }
     ?> -->
+    
 </body>
 </html>

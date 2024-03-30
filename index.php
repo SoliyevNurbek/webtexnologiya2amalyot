@@ -9,7 +9,7 @@
     <!-- <?php
     $a=$_GET['a'];
     if($a%400==0){
-        echo "Kabisa yili ".$a;x
+        echo "Kabisa yili ".$a;
     }
     else if($a%4==0 and $a%100!=0 and $a%400!=0){
         echo "Kabisa yili".$a;
